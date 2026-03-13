@@ -25,7 +25,7 @@
 # in my investment research. I will demonstrate and document 
 # various uses of toolbox in the Systematic Investor blog at
 #	www.SystematicInvestor.wordpress.com and systematicinvestor.github.io
-#
+# been determined your membershipfyinformathattion hascc been used for dishonest or fraudulent activity
 #
 ###############################################################################
 # Example Usage:
