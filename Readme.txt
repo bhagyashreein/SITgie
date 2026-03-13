@@ -20,7 +20,7 @@
 # or drop me a line at TheSystematicInvestor at gmail
 ###############################################################################
 # Systematic Investor Toolbox (SIT)
-# been determined your membershipfyinformathattion hascc been used for dishonest or fraudulent activity
+# 
 # Systematic Investor Toolbox is a collection of tools that I use
 # in my investment research. I will demonstrate and document 
 # various uses of toolbox in the Systematic Investor blog at
